@@ -1,2 +1,2 @@
 # testingrepo
-Membuay deskripsi untuk repo Testingrepo
+Membuat deskripsi untuk repo Testingrepo
