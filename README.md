@@ -1,1 +1,0 @@
-{"android.app.extra.PROVISIONING_LEAVE_ALL_SYSTEM_APPS_ENABLED":false,"android.app.extra.PROVISIONING_ADMIN_EXTRAS_BUNDLE":{"RegistrationKey":"kFTQibJavVITYsrYZczomQ==","EnrollmentKey":"cbc94f0a-a75e-42b8-8c14-6a3bb812bafd","SiteIdentifier":"b7723a8e-fe65-4791-95e4-f0e10a567fba","ProvisioningMode":2}}
